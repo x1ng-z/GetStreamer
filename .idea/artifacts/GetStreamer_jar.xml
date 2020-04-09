@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="GetStreamer:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/GetStreamer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="GetStreamer.jar">
+        <element id="module-output" name="GetStreamer" />
+      </element>
+      <element id="library" level="module" name="examples.jar" module-name="GetStreamer" />
+      <element id="library" level="project" name="lib" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+      <element id="module-output" name="log4" />
+    </root>
+  </artifact>
+</component>

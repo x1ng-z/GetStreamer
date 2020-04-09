@@ -1611,7 +1611,7 @@ public class Client extends javax.swing.JFrame {
             } else if (lFrameType.intValue() == PlayCtrl.T_YV12) {
 //                formatter.format("Video nStamp:%d\n", nSize.intValue());
 //                formatter.format("test_DecCb_Write YUV \n");
-                logger.info("test_DecCb_Write H%d  W%d Rate%d " + frameInfo.nHeight.intValue() + "  " + frameInfo.nWidth.intValue() + "  " + frameInfo.nFrameRate.intValue());
+//                logger.info("test_DecCb_Write H%d  W%d Rate%d " + frameInfo.nHeight.intValue() + "  " + frameInfo.nWidth.intValue() + "  " + frameInfo.nFrameRate.intValue());
 //                if (yuvdataOutputStream == null) {
 //                    try {
 //                        yuvdataOutputStream = new DataOutputStream(new FileOutputStream("VideoYV12"+(++imyi)+".yuv", true));
